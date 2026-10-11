@@ -96,7 +96,7 @@ module.exports = client => {
 
 ```
 ## Resultado
-![Bienvenida](https://i.ibb.co/Wv5WWvH/koya-justdiegocom-1088.png)
+![Bienvenida](https://raw.githubusercontent.com/justdiegocom/niby-welcomes/main/docs/img/welcome-example.png)
 _Para más ejemplos, revisa la [Documentación](https://nibywelcomes.netlify.app/)_
 
 
