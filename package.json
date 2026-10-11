@@ -11,11 +11,9 @@
     "welcome",
     "welcomes",
     "niby",
-    "justdiegocom",
     "dew",
     "niby-welcomes"
   ],
-  "author": "justdiegocom",
   "license": "GPL-3.0",
   "dependencies": {
     "canvas": "^2.9.3"

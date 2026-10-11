@@ -16,8 +16,6 @@
     <br />
     <br />
     <a href="https://nibywelcomes.netlify.app/">Documentación</a>
-    ·
-    <a href="https://discord.gg/MBPsvcphGf">Discord</a>
   </p>
 </p>
 
@@ -116,13 +114,10 @@ Las contribuciones son lo que hace que la comunidad de código abierto sea un lu
 <!-- CONTACT -->
 ## Contacto
 
-justdiegocom - 
-
 Link del Proyecto: https://github.com/justdiegocom/niby-welcomes
 
 
 
 <!-- Soporte -->
 ## Soporte
-* [El Mundo de Niby](https://discord.gg/MBPsvcphGf)
-* [Discord de Soporte](https://discord.gg/MBPsvcphGf)
+* [Abre un issue](https://github.com/justdiegocom/niby-welcomes/issues)
